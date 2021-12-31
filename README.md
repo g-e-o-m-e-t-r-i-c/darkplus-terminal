@@ -3,7 +3,6 @@
 A collection of configurations of the VS Code Dark+ theme
 for different terminal emulators.
 
-
 ## Contributions
 
 Contributions are highly welcomed.
